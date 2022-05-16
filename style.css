@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.newH{
+    color:sandybrown  ;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 70px;
+}
+span{
+    color:aqua;
+    
+}
+.choose{
+    color:salmon;
+    font-family: 'lobster', cursive;
+    text-align:left;
+    font-size: 40px;
+}
+
+.mobile{
+    width: 24%;
+    height: 450px;
+    background-color: rgb(185, 216, 236);
+    border :1 px;
+    text-align: center;
+    display: inline-block;
+    border: 3px salmon solid;
+}
+img{
+
+    width: 100%;
+    height: 65%;
+    
+    
+}
+body{
+    height: 5000px;
+    background-image: url(./img/47363332.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+button{
+    border: 2px solid seagreen;
+    border-radius: 10px;
+    width: 70%;
+    background: indianred;
+    padding: 5px 0px;
+
+}
+.home .nav ul{
+    list-style-type: none;
+    font-size: 50px;
+    
+}
+.home .nav ul a{
+    text-decoration: none;
+
+}
+.home .nav ul li{
+    display: inline;
+    margin: 50px;
+}
+.home {
+    background-color:rgba(0, 0, 0, 0.5);
+    
+}
